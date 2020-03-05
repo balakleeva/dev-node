@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://maria987:maria987@database-shy7h.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secrettoken",
+    "githubClientId": "5603f8b648296b364208",
+    "githubSecret": "3d5acf06799e6f61d334efee255d61e2b0436021"
+}
